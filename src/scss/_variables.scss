@@ -1,0 +1,25 @@
+// set up color hex values
+$blue: #2d769b;
+$blue-dark: #042036;
+$gray: #4c5f71;
+$gray-light: #eeeeee;
+$orange: #f57f20;
+$black: #000000;
+$white: #ffffff;
+
+
+// set up color variables
+$color-primary: $blue;
+$color-secondary: $gray;
+$color-highlight: $orange;
+
+// set up color classes
+.color-primary {
+  color: $blue
+}
+.color-secondary {
+  color: $gray
+}
+.color-highlight {
+  color: $orange
+}
